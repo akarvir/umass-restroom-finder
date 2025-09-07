@@ -15,7 +15,7 @@ app = FastAPI(title="UMass Restroom Locator API", version="1.0.0")
 # CORS middleware to allow React frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://127.0.0.1:3000"], # the frontend
+    allow_origins=["http://localhost:3000", "http://127.0.0.1:3000","https://umass-restroom-radar.netlify.app"], # the frontend
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

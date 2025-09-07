@@ -218,7 +218,7 @@ const RestroomLocator: React.FC = () => {
 
       {!isLoading && locationGroups.length === 0 && userLocation && ( // when userlocation is set, and locationgroups is by default [], this shows.
         <div className="no-results">
-          No UMass restrooms found nearby. Try searching from a location on campus.
+          Got your location, try hitting search. Otherwise, try a different location on campus.
         </div>
       )}
     </div>

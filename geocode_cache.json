@@ -1,0 +1,596 @@
+{
+  "358 North Pleasant Street": {
+    "method": "places_findplace",
+    "place_id": "ChIJMcq4iHnS5okRpWHD4zsK5V4",
+    "name": "UMass Amherst School of Public Health and Health Sciences",
+    "formatted_address": "Amherst, MA 01003, USA",
+    "lat": 42.3946775,
+    "lng": -72.5262533,
+    "within_campus_bbox": true
+  },
+  "472 North Pleasant Street": {
+    "method": "places_findplace",
+    "place_id": "ChIJ73sExXXS5okRarDlbjwQw88",
+    "name": "Newman Center",
+    "formatted_address": "111 Thatcher Rd, Amherst, MA 01002, USA",
+    "lat": 42.3871511,
+    "lng": -72.5217685,
+    "within_campus_bbox": true
+  },
+  "Agricultural Engineering": {
+    "method": "places_findplace",
+    "place_id": "ChIJO6vEO3DS5okRj1eDX7SfXu4",
+    "name": "Agricultural Engineering Building North",
+    "formatted_address": "Agricultural Engineering Building North, 250 Natural Resources Rd, Amherst, MA 01003, USA",
+    "lat": 42.3919297,
+    "lng": -72.53112349999999,
+    "within_campus_bbox": true
+  },
+  "Agricultural Engineering Annex A": {
+    "method": "places_findplace",
+    "place_id": "ChIJYdtPYnrS5okR7CkKfWmMZqs",
+    "name": "UMass Amherst College of Engineering",
+    "formatted_address": "Marston Hall, Amherst, MA 01002, USA",
+    "lat": 42.3940091,
+    "lng": -72.5293733,
+    "within_campus_bbox": true
+  },
+  "Agricultural Engineering Annex B": {
+    "method": "places_findplace",
+    "place_id": "ChIJYdtPYnrS5okR7CkKfWmMZqs",
+    "name": "UMass Amherst College of Engineering",
+    "formatted_address": "Marston Hall, Amherst, MA 01002, USA",
+    "lat": 42.3940091,
+    "lng": -72.5293733,
+    "within_campus_bbox": true
+  },
+  "Agricultural Experiment Station": {
+    "method": "places_findplace",
+    "place_id": "ChIJ03P6onLT5okRVrxNh9rOFd8",
+    "name": "UMass Agricultural Learning Center",
+    "formatted_address": "911 N Pleasant St, Amherst, MA 01002, USA",
+    "lat": 42.401981,
+    "lng": -72.52390199999999,
+    "within_campus_bbox": true
+  },
+  "Arnold House": {
+    "method": "places_findplace",
+    "place_id": "ChIJjy2siHnS5okRIyA8Fu7ljY0",
+    "name": "Arnold Hall",
+    "formatted_address": "704-746 N Pleasant St, Amherst, MA 01002, USA",
+    "lat": 42.3944794,
+    "lng": -72.526049,
+    "within_campus_bbox": true
+  },
+  "Bartlett Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJ49WOWQrT5okRakIsV-NabRM",
+    "name": "Bartlett Hall",
+    "formatted_address": "Tobin Hall, 130 Hicks Way, Amherst, MA 01003, USA",
+    "lat": 42.3879223,
+    "lng": -72.52883659999999,
+    "within_campus_bbox": true
+  },
+  "Berkshire House": {
+    "method": "places_findplace",
+    "place_id": "ChIJd5OIBHPS5okRx4Svn3kQoGI",
+    "name": "Berkshire House",
+    "formatted_address": "Berkshire House, 121 County Cir, Amherst, MA 01003, USA",
+    "lat": 42.38555230000001,
+    "lng": -72.52893809999999,
+    "within_campus_bbox": true
+  },
+  "Boyden Gym": {
+    "method": "places_findplace",
+    "place_id": "ChIJW2g8X3LS5okRAyfEPe55TpU",
+    "name": "Boyden Gym",
+    "formatted_address": "Boyden Physical Education Building, 131 Commonwealth Ave, Amherst, MA 01002, USA",
+    "lat": 42.3861048,
+    "lng": -72.5302115,
+    "within_campus_bbox": true
+  },
+  "Bromery Center for the Arts": {
+    "method": "places_findplace",
+    "place_id": "ChIJR9qXbnTS5okRcQCTVFBEmeA",
+    "name": "Bromery Center for the Arts",
+    "formatted_address": "151 Presidents Dr, Amherst, MA 01003, USA",
+    "lat": 42.3879206,
+    "lng": -72.52593619999999,
+    "within_campus_bbox": true
+  },
+  "Chenoweth Lab": {
+    "method": "places_findplace",
+    "place_id": "ChIJQaCdQ3DS5okR8YcPdwCSu2o",
+    "name": "Chenoweth Laboratory",
+    "formatted_address": "Chenoweth Laboratory, 100 Holdsworth Way, Amherst, MA 01003, USA",
+    "lat": 42.3919584,
+    "lng": -72.5303855,
+    "within_campus_bbox": true
+  },
+  "Clark Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJ91K79nbS5okRjEv3DhDMCw4",
+    "name": "Clark Hall",
+    "formatted_address": "Clark Hall, 251 Stockbridge Rd, Amherst, MA 01003, USA",
+    "lat": 42.3891518,
+    "lng": -72.5237085,
+    "within_campus_bbox": true
+  },
+  "Computer Science Building": {
+    "method": "places_findplace",
+    "place_id": "ChIJORmCw3rS5okRNBXP5xXKsdw",
+    "name": "Computer Science Building",
+    "formatted_address": "Computer Science Building, Amherst, MA 01002, USA",
+    "lat": 42.3951291,
+    "lng": -72.53123719999999,
+    "within_campus_bbox": true
+  },
+  "Dickinson Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJOayQcmHT5okR_oCdxY1dYMY",
+    "name": "Dickinson Hall",
+    "formatted_address": "155 Hicks Way, Amherst, MA 01002, USA",
+    "lat": 42.3890091,
+    "lng": -72.5303113,
+    "within_campus_bbox": true
+  },
+  "Du Bois Library": {
+    "method": "places_findplace",
+    "place_id": "ChIJkYI2EXHS5okRKSmKN1Y4pwE",
+    "name": "Du Bois Library",
+    "formatted_address": "Du Bois Library, Amherst, MA 01002, USA",
+    "lat": 42.3898127,
+    "lng": -72.5282498,
+    "within_campus_bbox": true
+  },
+  "Duda Building": {
+    "method": "places_findplace",
+    "place_id": "ChIJlfwRk3rS5okRvmRvgN7JipQ",
+    "name": "Duda",
+    "formatted_address": "Duda, 125 Natural Resources Rd, Amherst, MA 01002, USA",
+    "lat": 42.3944686,
+    "lng": -72.5303267,
+    "within_campus_bbox": true
+  },
+  "East Experiment Station": {
+    "method": "places_findplace",
+    "place_id": "ChIJQeLC73nS5okRznBb_XftPJ8",
+    "name": "East Experiment Station",
+    "formatted_address": "East Experiment Station, 671 N Pleasant St, Amherst, MA 01003, USA",
+    "lat": 42.3933228,
+    "lng": -72.52558429999999,
+    "within_campus_bbox": true
+  },
+  "Engineering Lab I": {
+    "method": "places_findplace",
+    "place_id": "ChIJaZp563rS5okR5V_fKVLuoSw",
+    "name": "Engineering Lab",
+    "formatted_address": "Engineering Laboratory, Amherst, MA 01002, USA",
+    "lat": 42.3947416,
+    "lng": -72.5305025,
+    "within_campus_bbox": true
+  },
+  "Fernald Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJSVjmaXbS5okRUoEJm6fJ_5A",
+    "name": "Fernald Hall",
+    "formatted_address": "Fernald Hall, 270 Stockbridge Rd, Amherst, MA 01003, USA",
+    "lat": 42.3885594,
+    "lng": -72.5224167,
+    "within_campus_bbox": true
+  },
+  "French Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJgQXkrHfS5okRp2GDOdb3wCA",
+    "name": "French Hall",
+    "formatted_address": "French Hall, 230 Stockbridge Rd, Amherst, MA 01003, USA",
+    "lat": 42.389935,
+    "lng": -72.5229597,
+    "within_campus_bbox": true
+  },
+  "Furcolo Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJZ-bUHHzS5okRu848M3jg_00",
+    "name": "Furcolo",
+    "formatted_address": "Furcolo, Amherst, MA 01002, USA",
+    "lat": 42.3982195,
+    "lng": -72.5264899,
+    "within_campus_bbox": true
+  },
+  "Goessmann Lab": {
+    "method": "places_findplace",
+    "place_id": "ChIJnd_LC3rS5okRlY8_lo-pKzs",
+    "name": "Goessmann Laboratory",
+    "formatted_address": "686 N Pleasant St, Amherst, MA 01002, USA",
+    "lat": 42.3932124,
+    "lng": -72.52772440000001,
+    "within_campus_bbox": true
+  },
+  "Goodell Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJ3U1Pf3HS5okRjSLiIa5FsZI",
+    "name": "Goodell Hall",
+    "formatted_address": "Goodell Hall, 140 Hicks Way, Amherst, MA 01003, USA",
+    "lat": 42.3886711,
+    "lng": -72.5292637,
+    "within_campus_bbox": true
+  },
+  "Hampshire House": {
+    "method": "places_findplace",
+    "place_id": "ChIJ8_YNGnPS5okRItZkWvxMFVI",
+    "name": "Hampshire House",
+    "formatted_address": "Hampshire House, Amherst, MA 01002, USA",
+    "lat": 42.3851525,
+    "lng": -72.52862,
+    "within_campus_bbox": true
+  },
+  "Herter Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJ3-y273PS5okRyNNBnId51eU",
+    "name": "Herter Hall",
+    "formatted_address": "Herter Hall, Amherst, MA 01002, USA",
+    "lat": 42.3877501,
+    "lng": -72.5273012,
+    "within_campus_bbox": true
+  },
+  "Holdsworth Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJF-JfDXDS5okRhzGlYfMJ46A",
+    "name": "Holdsworth",
+    "formatted_address": "Holdsworth, 160 Holdsworth Way, Amherst, MA 01003, USA",
+    "lat": 42.3928747,
+    "lng": -72.5309077,
+    "within_campus_bbox": true
+  },
+  "Integrated Science Building (ISB)": {
+    "method": "places_findplace",
+    "place_id": "ChIJS8o1YHfS5okRiw7QO0mjYeM",
+    "name": "Integrated Science Building",
+    "formatted_address": "Integrated Science Bldg, 661 N Pleasant St, Amherst, MA 01003, USA",
+    "lat": 42.3927164,
+    "lng": -72.5247198,
+    "within_campus_bbox": true
+  },
+  "Integrative Learning Center (ILC)": {
+    "method": "places_findplace",
+    "place_id": "ChIJU2GiMXfS5okRpmPHaKEzDSI",
+    "name": "Integrative Learning Center",
+    "formatted_address": "650 N Pleasant St, Amherst, MA 01003, USA",
+    "lat": 42.3909388,
+    "lng": -72.52571739999999,
+    "within_campus_bbox": true
+  },
+  "International Programs Office (IPO)": {
+    "method": "places_findplace",
+    "place_id": "ChIJZfjw5HPS5okRJGioFsdLsHw",
+    "name": "University of Massachusetts Amherst International Programs Office",
+    "formatted_address": "70 Butterfield Terrace, Amherst, MA 01003, USA",
+    "lat": 42.3870507,
+    "lng": -72.520918,
+    "within_campus_bbox": true
+  },
+  "Isenberg School of Management (Business Innovation Hub)": {
+    "method": "places_findplace",
+    "place_id": "ChIJN-6q0lDT5okRnR31jFvEiy4",
+    "name": "Isenberg School Of Management Business Innovation Hub",
+    "formatted_address": "Amherst, MA 01002, USA",
+    "lat": 42.38743669999999,
+    "lng": -72.5250391,
+    "within_campus_bbox": true
+  },
+  "Knowles Engineering Building": {
+    "method": "places_findplace",
+    "place_id": "ChIJOQAAQHHS5okRh5yD0LlebEU",
+    "name": "Knowles Engineering Building",
+    "formatted_address": "151 Holdsworth Way, Amherst, MA 01003, USA",
+    "lat": 42.393263,
+    "lng": -72.52891699999999,
+    "within_campus_bbox": true
+  },
+  "Lederle Graduate Research Center": {
+    "method": "places_findplace",
+    "place_id": "ChIJq6qq6njS5okRl6f3omoG8so",
+    "name": "Lederle Graduate Research Center",
+    "formatted_address": "740 N Pleasant St, Amherst, MA 01003, USA",
+    "lat": 42.3939874,
+    "lng": -72.5276268,
+    "within_campus_bbox": true
+  },
+  "Life Science Lab (LSL)": {
+    "method": "places_findplace",
+    "place_id": "ChIJpaQLfHfS5okRaG8r10SnPFs",
+    "name": "Life Sciences Laboratory",
+    "formatted_address": "Life Science Laboratories, 240 Thatcher Rd, Amherst, MA 01003, USA",
+    "lat": 42.3921392,
+    "lng": -72.52367339999999,
+    "within_campus_bbox": true
+  },
+  "Lincoln Campus Center": {
+    "method": "places_findplace",
+    "place_id": "ChIJ4W51t3DS5okRfWwjjPAuTzo",
+    "name": "Murray D. Lincoln Campus Center",
+    "formatted_address": "1 Campus Center Way, Amherst, MA 01003, USA",
+    "lat": 42.3917753,
+    "lng": -72.52696929999999,
+    "within_campus_bbox": true
+  },
+  "Machmer Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJJ9lHAXHS5okRoBtgZgp6Rko",
+    "name": "240 Hicks Way Machmer Hall",
+    "formatted_address": "240 Hicks Way Machmer Hall, Amherst, MA 01003, USA",
+    "lat": 42.3903279,
+    "lng": -72.5289275,
+    "within_campus_bbox": true
+  },
+  "Marcus Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJmSRjRn_T5okRdZjOzDDi7Ek",
+    "name": "Marcus Hall",
+    "formatted_address": "100 Natural Resources Rd, Amherst, MA 01003, USA",
+    "lat": 42.3939887,
+    "lng": -72.528616,
+    "within_campus_bbox": true
+  },
+  "Massachusetts Farm Bureau Federation Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJ5fwGYIfS5okRxQnvT847RhA",
+    "name": "Massachusetts Farm Bureau Federation Hall",
+    "formatted_address": "N Pleasant St, Amherst, MA 01002, USA",
+    "lat": 42.4025769,
+    "lng": -72.5278885,
+    "within_campus_bbox": true
+  },
+  "Mather Building": {
+    "method": "places_findplace",
+    "place_id": "ChIJJRcThYTN5okRlVsUPIxibD8",
+    "name": "Mather Building",
+    "formatted_address": "Mather Building, Amherst, MA 01002, USA",
+    "lat": 42.3946016,
+    "lng": -72.51096199999999,
+    "within_campus_bbox": true
+  },
+  "Montague House": {
+    "method": "places_findplace",
+    "place_id": "ChIJY6DTBnzS5okRjOpToOfXQQI",
+    "name": "Montague House",
+    "formatted_address": "Montague House, 809 N Pleasant St, Amherst, MA 01002, USA",
+    "lat": 42.397803,
+    "lng": -72.5267989,
+    "within_campus_bbox": true
+  },
+  "Morrill II": {
+    "method": "places_findplace",
+    "place_id": "ChIJX77743bS5okRFN_3GKRbuBI",
+    "name": "II",
+    "formatted_address": "Morrill Science Center, II, Amherst, MA 01003, USA",
+    "lat": 42.3898164,
+    "lng": -72.5245202,
+    "within_campus_bbox": true
+  },
+  "Morrill III": {
+    "method": "places_findplace",
+    "place_id": "ChIJC3Od43bS5okRaNyiqDCu-dk",
+    "name": "Morrill Science Center",
+    "formatted_address": "Morrill Science Center, 80 Campus Center Way, Amherst, MA 01003, USA",
+    "lat": 42.3911386,
+    "lng": -72.52399640000002,
+    "within_campus_bbox": true
+  },
+  "Morrill IV": {
+    "method": "places_findplace",
+    "place_id": "ChIJCy5WYHDS5okRQ9v9FX2n4VM",
+    "name": "UMass Amherst College of Natural Sciences",
+    "formatted_address": "Morrill Science Center, 80 Campus Center Way, Amherst, MA 01003, USA",
+    "lat": 42.3897803,
+    "lng": -72.52453059999999,
+    "within_campus_bbox": true
+  },
+  "Munson Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJWc5evXPS5okR6NWZ2Zo2uf4",
+    "name": "Munson Hall",
+    "formatted_address": "Munson Hall, Amherst, MA 01002, USA",
+    "lat": 42.38653559999999,
+    "lng": -72.5276683,
+    "within_campus_bbox": true
+  },
+  "New Africa House": {
+    "method": "places_findplace",
+    "place_id": "ChIJP-eTKHbS5okRGKy1pwuv-X0",
+    "name": "New Africa House",
+    "formatted_address": "New Africa House, Amherst, MA 01003, USA",
+    "lat": 42.3889411,
+    "lng": -72.5206846,
+    "within_campus_bbox": true
+  },
+  "Old Chapel": {
+    "method": "places_findplace",
+    "place_id": "ChIJcRtIaHHS5okRslm9SlbZAiM",
+    "name": "Old Chapel",
+    "formatted_address": "144 Hicks Way, Amherst, MA 01002, USA",
+    "lat": 42.388956,
+    "lng": -72.527971,
+    "within_campus_bbox": true
+  },
+  "Olver Design Building": {
+    "method": "places_findplace",
+    "place_id": "ChIJD9a7iXbS5okR5koQpmeZLjs",
+    "name": "John W. Olver Design Building",
+    "formatted_address": "551 N Pleasant St, Amherst, MA 01003, USA",
+    "lat": 42.3881586,
+    "lng": -72.5236436,
+    "within_campus_bbox": true
+  },
+  "Paige Laboratory": {
+    "method": "places_findplace",
+    "place_id": "ChIJZwR-gnrS5okRUHpRCD1E1bI",
+    "name": "Paige Laboratory",
+    "formatted_address": "Paige Laboratory, 161 Holdsworth Way, Amherst, MA 01003, USA",
+    "lat": 42.393329,
+    "lng": -72.52984889999999,
+    "within_campus_bbox": true
+  },
+  "Parks Marching Band Building": {
+    "method": "places_findplace",
+    "place_id": "ChIJd_uNlHHS5okRBMnidSnXRq8",
+    "name": "Minuteman Marching Band Building",
+    "formatted_address": "110 Grinnell Road, Amherst, MA 01003, USA",
+    "lat": 42.389765,
+    "lng": -72.53078339999999,
+    "within_campus_bbox": true
+  },
+  "Physical Plant Building": {
+    "method": "places_findplace",
+    "place_id": "ChIJlVslpVvT5okRv2XeQGU_-nY",
+    "name": "Physical Plant",
+    "formatted_address": "360 Campus Center Way, Amherst, MA 01002, USA",
+    "lat": 42.39094499999999,
+    "lng": -72.532017,
+    "within_campus_bbox": true
+  },
+  "Physical Sciences Building": {
+    "method": "places_findplace",
+    "place_id": "ChIJ-0ht2yfT5okR6ONeqjPH2PQ",
+    "name": "Physical Sciences Building",
+    "formatted_address": "690 N Pleasant St, Amherst, MA 01003, USA",
+    "lat": 42.3936563,
+    "lng": -72.52630839999999,
+    "within_campus_bbox": true
+  },
+  "Police Station": {
+    "method": "places_findplace",
+    "place_id": "ChIJ9yCQd4HN5okRLJsqpvn2Yjg",
+    "name": "University of Massachusetts Police Department",
+    "formatted_address": "585 E Pleasant St, Amherst, MA 01002, USA",
+    "lat": 42.3979864,
+    "lng": -72.5148499,
+    "within_campus_bbox": true
+  },
+  "ROTC Building": {
+    "method": "places_findplace",
+    "place_id": "ChIJdWZn4XLS5okRESAmvgoN-14",
+    "name": "Army ROTC",
+    "formatted_address": "Army ROTC, 101 Commonwealth Ave, Amherst, MA 01003, USA",
+    "lat": 42.3851998,
+    "lng": -72.529664,
+    "within_campus_bbox": true
+  },
+  "Recreation Center": {
+    "method": "places_findplace",
+    "place_id": "ChIJu7Zs-HHS5okRBkc_pmaESaM",
+    "name": "UMass Campus Recreation",
+    "formatted_address": "161 Commonwealth Ave, Amherst, MA 01002, USA",
+    "lat": 42.3888659,
+    "lng": -72.53172219999999,
+    "within_campus_bbox": true
+  },
+  "Shade Trees Lab": {
+    "method": "places_findplace",
+    "place_id": "ChIJ47JxgnrS5okRIhv3TNVOhaw",
+    "name": "UMass Soil and Plant Tissue Testing Lab",
+    "formatted_address": "161 Holdsworth Way, Amherst, MA 01003, USA",
+    "lat": 42.3933884,
+    "lng": -72.5298949,
+    "within_campus_bbox": true
+  },
+  "Skinner Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJH9cuanfS5okR5efFim6il7I",
+    "name": "Skinner Hall",
+    "formatted_address": "Skinner Hall, 651 N Pleasant St, Amherst, MA 01003, USA",
+    "lat": 42.3916012,
+    "lng": -72.52469959999999,
+    "within_campus_bbox": true
+  },
+  "South College": {
+    "method": "places_findplace",
+    "place_id": "ChIJgznHm3HS5okRLkMT3KMGSEk",
+    "name": "South College",
+    "formatted_address": "Amherst, MA 01002, USA",
+    "lat": 42.3893646,
+    "lng": -72.529845,
+    "within_campus_bbox": true
+  },
+  "Stockbridge Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJY7wCYXDS5okRXDJQJonj9s8",
+    "name": "Stockbridge Hall",
+    "formatted_address": "Stockbridge Hall, 80 Campus Center Way, Amherst, MA 01003, USA",
+    "lat": 42.392303,
+    "lng": -72.52969259999999,
+    "within_campus_bbox": true
+  },
+  "Student Union": {
+    "method": "places_findplace",
+    "place_id": "ChIJ1ZMT3nDS5okREqpNC6X39Ew",
+    "name": "UMass Student Union",
+    "formatted_address": "41 Campus Center Way, Amherst, MA 01002, USA",
+    "lat": 42.390842,
+    "lng": -72.52765579999999,
+    "within_campus_bbox": true
+  },
+  "Studio Arts Building": {
+    "method": "places_findplace",
+    "place_id": "ChIJi6SZeXbS5okRoUQdTQjDThw",
+    "name": "Studio Arts Building",
+    "formatted_address": "Studio Arts Bldg, Amherst, MA 01003, USA",
+    "lat": 42.3875576,
+    "lng": -72.5226351,
+    "within_campus_bbox": true
+  },
+  "Thompson Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJn538qO_T5okRa49l513nMjY",
+    "name": "Thompson Hall",
+    "formatted_address": "240 Hicks Way, Amherst, MA 01003, USA",
+    "lat": 42.390113,
+    "lng": -72.5300855,
+    "within_campus_bbox": true
+  },
+  "Tobin Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJ1y92NnLS5okR3YU6G7C2UL0",
+    "name": "Tobin Hall",
+    "formatted_address": "Tobin Hall, 135 Hicks Way, Amherst, MA 01003, USA",
+    "lat": 42.3875018,
+    "lng": -72.52956879999999,
+    "within_campus_bbox": true
+  },
+  "University Health Services": {
+    "method": "places_findplace",
+    "place_id": "ChIJdWu6LXbS5okRNhkublFlPWY",
+    "name": "University Health Services",
+    "formatted_address": "150 Infirmary Way, Amherst, MA 01003, USA",
+    "lat": 42.3903186,
+    "lng": -72.5216166,
+    "within_campus_bbox": true
+  },
+  "Whitmore Administration Building": {
+    "method": "places_findplace",
+    "place_id": "ChIJsewFhYTN5okRY7Wcxb6WPsE",
+    "name": "Whitmore Administration Building",
+    "formatted_address": "181 Presidents Dr, Amherst, MA 01003, USA",
+    "lat": 42.3858669,
+    "lng": -72.5263729,
+    "within_campus_bbox": true
+  },
+  "Wilder Hall": {
+    "method": "places_findplace",
+    "place_id": "ChIJT8e6BnfS5okRMTJqp-ane2I",
+    "name": "Wilder Hall",
+    "formatted_address": "Wilder Hall, 221 Stockbridge Rd, Amherst, MA 01003, USA",
+    "lat": 42.3903076,
+    "lng": -72.52376410000001,
+    "within_campus_bbox": true
+  },
+  "Worcester Dining Commons": {
+    "method": "places_findplace",
+    "place_id": "ChIJY9aPx3nS5okRM9YrU9LpVmQ",
+    "name": "Worcester Dining",
+    "formatted_address": "Worcester Dining, N Pleasant St, Amherst, MA 01003, USA",
+    "lat": 42.39358989999999,
+    "lng": -72.5242971,
+    "within_campus_bbox": true
+  }
+}

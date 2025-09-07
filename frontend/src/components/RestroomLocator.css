@@ -1,0 +1,321 @@
+.restroom-locator {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+}
+
+.controls {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.location-btn, .search-btn {
+  padding: 12px 24px;
+  font-size: 16px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-weight: 600;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.location-btn {
+  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+  color: white;
+}
+
+.location-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(30, 60, 114, 0.4);
+}
+
+.search-btn {
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  color: white;
+}
+
+.search-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(245, 87, 108, 0.4);
+}
+
+.location-btn:disabled, .search-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.status-message {
+  text-align: center;
+  padding: 10px;
+  background-color: #e3f2fd;
+  border: 1px solid #bbdefb;
+  border-radius: 8px;
+  margin: 10px 0;
+  color: #1976d2;
+}
+
+.error-message {
+  text-align: center;
+  padding: 10px;
+  background-color: #ffebee;
+  border: 1px solid #ffcdd2;
+  border-radius: 8px;
+  margin: 10px 0;
+  color: #d32f2f;
+}
+
+.no-results {
+  text-align: center;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 12px;
+  margin: 20px 0;
+  color: #666;
+  font-size: 16px;
+}
+
+.results h2 {
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 25px;
+  font-size: 28px;
+  font-weight: 700;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.location-group {
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  margin-bottom: 25px;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.location-group:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+}
+
+.location-header {
+  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+  color: white;
+  padding: 20px;
+  position: relative;
+}
+
+.location-header h3 {
+  margin: 0 0 10px 0;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.location-meta {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.distance, .eta {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+/* Removed .maps-btn styles since the button is removed */
+
+.address {
+  padding: 15px 20px;
+  background-color: #f8f9fa;
+  color: #666;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.restrooms-list {
+  padding: 20px;
+}
+
+.restroom-card {
+  background-color: #f8f9fa;
+  border-radius: 12px;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-left: 4px solid #74b9ff;
+  transition: all 0.3s ease;
+}
+
+.restroom-card:hover {
+  background-color: #e9ecef;
+  transform: translateX(5px);
+}
+
+.restroom-card:last-child {
+  margin-bottom: 0;
+}
+
+.restroom-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.restroom-badges {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.restroom-type {
+  background: linear-gradient(135deg, #a29bfe 0%, #6c5ce7 100%);
+  color: white;
+  padding: 4px 12px;
+  border-radius: 15px;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.gender-inclusive {
+  background: linear-gradient(135deg, #ff6b6b 0%, #feca57 25%, #48dbfb 50%, #ff9ff3 75%, #54a0ff 100%);
+  color: white;
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 11px;
+  font-weight: 600;
+  animation: gentle-pulse 2s ease-in-out infinite;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+@keyframes gentle-pulse {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.02);
+    opacity: 0.95;
+  }
+}
+
+.floor {
+  background-color: #ddd;
+  color: #666;
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.restroom-summary {
+  margin: 10px 0;
+  color: #333;
+  font-style: italic;
+  line-height: 1.4;
+}
+
+.restroom-details {
+  display: flex;
+  gap: 10px;
+  margin: 10px 0;
+  flex-wrap: wrap;
+}
+
+.rooms, .stalls, .shower, .staff-only {
+  background-color: #e3f2fd;
+  color: #1976d2;
+  padding: 3px 8px;
+  border-radius: 10px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.shower {
+  background-color: #e8f5e8;
+  color: #2e7d32;
+}
+
+.staff-only {
+  background-color: #fff3e0;
+  color: #f57c00;
+}
+
+.restroom-notes {
+  margin: 10px 0;
+  padding: 8px 12px;
+  background-color: #fff9c4;
+  border-radius: 8px;
+  font-size: 14px;
+  color: #795548;
+  border-left: 3px solid #ffc107;
+}
+
+.directions-btn {
+  background: linear-gradient(135deg, #00b894 0%, #00a085 100%);
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 700;
+  transition: all 0.3s ease;
+  margin-top: 10px;
+  box-shadow: 0 3px 15px rgba(0, 184, 148, 0.2);
+  width: 100%;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.directions-btn.primary {
+  font-size: 16px;
+  padding: 14px 24px;
+  box-shadow: 0 4px 20px rgba(0, 184, 148, 0.3);
+}
+
+.directions-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 25px rgba(0, 184, 148, 0.4);
+  background: linear-gradient(135deg, #00d2a1 0%, #00b894 100%);
+}
+
+@media (max-width: 768px) {
+  .restroom-locator {
+    padding: 15px;
+  }
+  
+  .controls {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .location-btn, .search-btn {
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .location-meta {
+    justify-content: center;
+  }
+  
+  .restroom-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .restroom-details {
+    justify-content: center;
+  }
+}

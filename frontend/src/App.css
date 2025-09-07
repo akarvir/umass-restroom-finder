@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+  min-height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+}
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  text-align: center;
+  padding: 30px 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.App-header h1 {
+  margin: 0 0 15px 0;
+  font-size: 2.5em;
+  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 800;
+}
+
+.tagline {
+  font-size: 1.1em;
+  color: #666;
+  margin: 0;
+  line-height: 1.8;
+  font-weight: 500;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.tagline-main {
+  font-size: 1.3em;
+  font-weight: 700;
+  color: #333;
+  font-style: italic;
+}
+
+.tagline-sub {
+  font-size: 1em;
+  color: #777;
+  font-weight: 400;
+}
+
+main {
+  flex: 1;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(5px);
+}
+
+.App-footer {
+  background: rgba(30, 60, 114, 0.9);
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-size: 14px;
+}
+
+.App-footer p {
+  margin: 0;
+  opacity: 0.8;
+}
+
+@media (max-width: 768px) {
+  .App-header h1 {
+    font-size: 2em;
+  }
+  
+  .tagline {
+    font-size: 1em;
+  }
+  
+  .tagline-main {
+    font-size: 1.1em;
+  }
+  
+  .tagline-sub {
+    font-size: 0.9em;
+  }
+  
+  main {
+    padding: 15px;
+  }
+}

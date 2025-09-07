@@ -1,0 +1,121 @@
+node_modules/
+.env
+./frontend/node_modules
+./frontend/build
+./frontend/.env
+./frontend/.env.local
+./frontend/.env.development.local
+./frontend/.env.test.local
+./frontend/.env.production.local
+./frontend/npm-debug.log*
+./frontend/yarn-debug.log*
+./frontend/yarn-error.log*
+umass_restrooms_dataset_google.csv
+./backend/create_tables.sql
+./backend/populate_database.py
+./geocode_cache.json
+./geocode_google_v2.py
+# =====================================
+# OS / Editor junk
+# =====================================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.log
+.idea/
+.vscode/
+*.code-workspace
+
+# =====================================
+# Node / Frontend
+# =====================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+# build outputs
+dist/
+build/
+.cache/
+.next/
+out/
+coverage/
+# vite/parcel cache
+*.tsbuildinfo
+vite.config.ts.timestamp*
+.vite/
+
+# =====================================
+# Python / Backend
+# =====================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+*.log
+*.pot
+*.pyc
+
+# virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+.eggs/
+.mypy_cache/
+.pytest_cache/
+.dmypy.json
+.pyre/
+.pytype/
+
+# compiled stuff
+*.so
+*.dll
+*.dylib
+
+# =====================================
+# Supabase / Databases
+# =====================================
+# Supabase local config
+.supabase/
+
+# Local DB dumps
+*.sql
+*.dump
+
+# =====================================
+# Environment / Secrets
+# =====================================
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+*.key
+*.pem
+*.crt
+*.cert
+
+# =====================================
+# Docker
+# =====================================
+# ignore images/volumes
+docker-compose.override.yml
+.docker/
+*.tar
+
+# =====================================
+# Misc
+# =====================================
+*.bak
+*.tmp
+*.old

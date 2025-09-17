@@ -1,1 +1,1 @@
-Check it out at – [umass-restroom-radar.netlify.app](https://umass-restroom-radar.netlify.app)
+Check it out at – [umass-restroom-radar.pages.dev](https://umass-restroom-radar.pages.dev)
